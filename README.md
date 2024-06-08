@@ -20,10 +20,5 @@ Tabela "matriculas": Esta tabela registra as matrículas dos alunos nos cursos. 
 
 Tabela temporária "temp_nomes": É uma tabela temporária utilizada apenas durante a execução de determinadas operações. Neste caso, ela armazena temporariamente uma lista de nomes e sobrenomes que são posteriormente inseridos na tabela de alunos.
 
-## Uso
-
-Para utilizar as views criadas, basta executar o script `criar_views.sql` em um ambiente de banco de dados compatível. As views estarão disponíveis para consulta e análise dos dados.
-
-
 #MODELO LÓGICO SIMPLIFICADO
 ![image](https://github.com/WesleyAndrade0/Bd_Univ/assets/167809767/a46d5c8a-9788-4b53-9100-281d54db3a49)
